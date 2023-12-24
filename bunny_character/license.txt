@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bunny Character
+* source:	https://sketchfab.com/3d-models/bunny-character-d45c2cfa06094235a9e8783aa454ffb6
+* author:	Qiara (https://sketchfab.com/Qikiee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bunny Character" (https://sketchfab.com/3d-models/bunny-character-d45c2cfa06094235a9e8783aa454ffb6) by Qiara (https://sketchfab.com/Qikiee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
